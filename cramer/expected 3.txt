@@ -1,0 +1,7 @@
+determinant A = 978
+determinant A1 = 1680
+determinant A2 = 2040
+determinant A3 = 810
+x1 = 1.7178
+x2 = 2.0859
+x3 = 0.82822

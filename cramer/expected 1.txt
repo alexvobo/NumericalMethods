@@ -1,0 +1,7 @@
+determinant A = 41
+determinant A1 = 215
+determinant A2 = -53
+determinant A3 = -114
+x1 = 5.2439
+x2 = -1.2927
+x3 = -2.7805

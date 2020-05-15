@@ -1,0 +1,7 @@
+determinant A = -8
+determinant A1 = -50
+determinant A2 = 14
+determinant A3 = -6
+x1 = 6.25
+x2 = -1.75
+x3 = 0.75
